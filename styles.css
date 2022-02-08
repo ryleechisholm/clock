@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+    position: relative;
+}
+
+.box {
+    height: 50vh;
+    width: 40vw;
+    background-color: white;
+    border-radius: 25px;
+    margin: auto;
+    text-align: center;
+}
+
+#time {
+    font-size: 130px;
+}
+
+#date {
+    font-size: 60px;
+    margin-top: .5em;
+}
